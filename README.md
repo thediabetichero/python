@@ -1,2 +1,2 @@
 # python
-Some python scripts I've written
+Some Python scripts I've written
